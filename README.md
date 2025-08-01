@@ -2,6 +2,7 @@
 A full-stack web application for managing and tracking a medicine inventory. This project features a secure login and sign-up system, a dashboard to view medicine details, and the ability to search for new medicines from both a local database and an external API.
 
 🚀 Features
+
 Secure Authentication: Users can sign up for a new account and log in to access the application.
 
 Interactive Medicine Table: A clean, tabular view of all available medicines.
