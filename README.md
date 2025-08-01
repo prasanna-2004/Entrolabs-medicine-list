@@ -40,13 +40,16 @@ Before you begin, ensure you have the following installed:
 Node.js & npm (Node Package Manager)
 
 💻 Installation and Setup
+
 Follow these steps to get a copy of the project up and running on your local machine.
 
 Step 1: Clone the Repository
 
 git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
 cd YOUR_REPOSITORY
+
 Step 2: Backend Setup
+
 First, set up and run the Node.js backend server.
 
 Navigate to the backend directory.
@@ -75,6 +78,7 @@ npm start
 The application will open in your browser at http://localhost:3000.
 
 🚀 Usage
+
 Sign Up: When you first visit the application, you'll be directed to the login page. Click the "Sign up" link to create a new account.
 
 Log In: Use your new credentials to log in.
