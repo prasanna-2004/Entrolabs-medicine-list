@@ -17,6 +17,14 @@ Full-Stack Architecture: The project is separated into a React frontend and a No
 Check out the application in action:
 https://entrolabs-medicine-list-mzco.vercel.app/
 
+#screenshots
+[signup page_](https://github.com/prasanna-2004/Entrolabs-medicine-list/blob/main/sign-up.png)
+[login page](https://github.com/prasanna-2004/Entrolabs-medicine-list/blob/main/login.png)
+[ medicine list](https://github.com/prasanna-2004/Entrolabs-medicine-list/blob/main/list%20of%20medicines.png)
+[Add new medicine](https://github.com/prasanna-2004/Entrolabs-medicine-list/blob/main/automatic%20suggestions.png)
+[alert message](https://github.com/prasanna-2004/Entrolabs-medicine-list/blob/main/new%20medicine%20alert.png)
+[newly added medicines](https://github.com/prasanna-2004/Entrolabs-medicine-list/blob/main/added%20medicines.png)
+
 #  Technologies Used
 Frontend
 React.js: For building the user interface.
