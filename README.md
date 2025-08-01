@@ -15,7 +15,7 @@ Full-Stack Architecture: The project is separated into a React frontend and a No
 
 🔗 Live Demo
 Check out the application in action:
-https://entrolabs-medicine-list-mzco.vercel.app/
+https://medicine-search-task-frontend-c9jw51n5e-peasannas-projects.vercel.app
 
 #screenshots
 [signup page_](https://github.com/prasanna-2004/Entrolabs-medicine-list/blob/main/sign-up.png)
