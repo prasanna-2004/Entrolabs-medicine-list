@@ -35,6 +35,7 @@ Express.js: A web framework for building the REST API.
 CORS: Middleware to enable cross-origin requests from the frontend.
 
 📦 Prerequisites
+
 Before you begin, ensure you have the following installed:
 
 Node.js & npm (Node Package Manager)
